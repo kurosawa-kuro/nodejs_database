@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurosawa-kuro/nodejs_database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurosawa-kuro/nodejs_database/issues"
+  },
+  "homepage": "https://github.com/kurosawa-kuro/nodejs_database#readme",
+  "devDependencies": {
+    "mongodb": "^4.0.1",
+    "pg": "^8.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
